@@ -27,7 +27,7 @@
   ;; make sure to run this code twice during the first time, so that
   ;; the functions are defined
 
-  (defparameter *source-dir* #P"../cl-gen2-optix/source/")
+  (defparameter *source-dir* #P"../cl-gen2-glfw-imgui/source/")
 
   (progn
     ;; collect code that will be emitted in utils.h
